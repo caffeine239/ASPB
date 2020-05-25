@@ -1,0 +1,19 @@
+{
+  "OpenDate": "05222020",
+  "CloseDate": "null",
+  "WeekNumber": 21,
+  "Vin": "876876",
+  "Year": "2015",
+  "Make": "BUICK",
+  "Model": "ghj",
+  "Miles": "ghj",
+  "Repairs": [
+    {
+      "Type": "Repair",
+      "Rate": "35",
+      "Discount": "0",
+      "Hours": "8",
+      "Description": "tjghj"
+    }
+  ]
+}
