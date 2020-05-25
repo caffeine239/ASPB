@@ -1,0 +1,26 @@
+{
+  "OpenDate": "05222020",
+  "CloseDate": "null",
+  "WeekNumber": 21,
+  "Vin": "1234567890",
+  "Year": "2020",
+  "Make": "ACURA",
+  "Model": "TL",
+  "Miles": "123456",
+  "Repairs": [
+    {
+      "Type": "Repair",
+      "Rate": "35",
+      "Discount": "0",
+      "Hours": "1",
+      "Description": "diag"
+    },
+    {
+      "Type": "Repair",
+      "Rate": "35",
+      "Discount": "0",
+      "Hours": "2",
+      "Description": "harness repair"
+    }
+  ]
+}
